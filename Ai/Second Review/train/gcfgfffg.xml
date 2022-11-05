@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder (6)</folder>
+	<filename>gcfgfffg.jpg</filename>
+	<path>C:\Users\WELCOME\Desktop\New folder (6)\gcfgfffg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>49</ymin>
+			<xmax>188</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

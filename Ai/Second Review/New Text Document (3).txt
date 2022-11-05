@@ -1,0 +1,8 @@
+!pip uninstall opencv-python-headless==4.5.5.62
+
+
+!pip install opencv-python-headless==4.5.2.52
+
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvklqwSF2aviR6ODmYm-l1L6xCyi4TEgQbw&usqp=CAU
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQfj-hXijDdm3b7p65ef8fltu244lX4Za9w&usqp=CAU

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder (6)</folder>
+	<filename>hfgcft.jpg</filename>
+	<path>C:\Users\WELCOME\Desktop\New folder (6)\hfgcft.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>6</ymin>
+			<xmax>172</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,7 @@
+1.collection of dataset
+2.android tensorflow object detection
+3.esp32 camera with websocket 
+4.Google text to speech
+
+
+ 
